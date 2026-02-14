@@ -1,0 +1,16 @@
+## Módulo 2 – Item 10: Validação de Atribuição Automática e Roles
+
+Foi criado um novo utilizador no Microsoft 365
+Admin Center.
+
+Após criação, foi validada a atribuição automática
+de licença através de grupo previamente configurado.
+
+Foram analisadas as funções administrativas atribuídas,
+nomeadamente:
+- User Administrator
+- Billing Reader
+
+Conclui-se que o ambiente respeita o princípio
+do menor privilégio e que a atribuição automática
+de licença está funcional.
