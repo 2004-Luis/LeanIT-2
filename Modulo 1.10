@@ -1,0 +1,23 @@
+
+## Módulo 1 – Item 10: Exportação de Utilizadores (CSV)
+
+A exportação da lista de utilizadores foi realizada através do menu de opções
+(⋯) na interface de "Utilizadores ativos" no Microsoft 365 Admin Center,
+onde se encontra a funcionalidade "Exportar usuários".
+
+Devido à nova interface do portal, esta opção encontra-se integrada no menu
+contextual de ações avançadas.
+
+Resultado técnico:
+- Geração de ficheiro CSV com inventário completo de utilizadores
+- Dados estruturados para auditoria, compliance e governança
+- Suporte a relatórios administrativos e controlo de identidades
+
+Objetivo:
+- Governança
+- Auditoria
+- Compliance
+- Gestão de identidades
+- Planeamento administrativo
+
+
