@@ -1,0 +1,28 @@
+## Módulo 1 – Item 1: Criação de Utilizadores com Naming Padrão
+
+Foram criados 8 utilizadores no tenant Microsoft 365 seguindo padrões corporativos de naming e identidade digital.
+
+Padrão aplicado:
+primeiroNome.ultimoNome@tenant.onmicrosoft.com
+
+Campos normalizados:
+- Nome completo
+- UPN
+- Departamento
+- Cargo
+- Localização
+- Função (User)
+
+Objetivo:
+Garantir base estruturada para:
+- Group-based licensing
+- Dynamic groups
+- Governança
+- Automação
+- Segurança
+- Compliance
+- Escalabilidade
+
+
+
+
